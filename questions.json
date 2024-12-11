@@ -1,0 +1,218 @@
+{
+  "heading": "Identifying Stronger versus Weaker Counterclaims",
+  "topics": [
+    {
+      "heading": "Identifying Stronger versus Weaker Counterclaims ",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "<b>Claim:</b> \"Drinking water helps improve skin health.\" <br><b>Supporting Statement:</b> \"Hydrated skin generally looks healthier.\"<br> What type of supporting evidence is this?",
+          "options": [
+            "Stronger Evidence",
+            "Weaker Evidence", 
+            "Neither weaker nor stronger evidence"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 2,
+          "question": "<b>Claim:</b> \"Reading regularly improves vocabulary.\" <br><b>Supporting Statement:</b> \"A study found that people who read books frequently have larger vocabularies compared to those who do not read.\"<br> What type of supporting evidence is this?",
+          "options": [
+            "Stronger Evidence",
+            "Weaker Evidence", 
+            "Neither weaker nor stronger evidence"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 3,
+          "question": "<b>Claim:</b> \"Exercising regularly can boost mental health.\" <br><b>Supporting Statement:</b> \"Aerobic exercise has been proven to reduce symptoms of anxiety and depression in many patients.\"<br> What type of supporting evidence is this?",
+          "options": [
+            "Stronger Evidence",
+            "Weaker Evidence", 
+            "Strongest Evidence", 
+            "Neither weaker nor stronger evidence"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 4,
+          "question": "<b>Claim:</b> \"Learning music improves cognitive abilities in children.\" <br><b>Supporting Statement:</b> \"Children who play musical instruments score higher on cognitive tests than those who do not.\"<br> What type of supporting evidence is this?",
+          "options": [
+            "Stronger Evidence",
+            "Weaker Evidence", 
+            "Neither weaker nor stronger evidence"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 5,
+          "question": "<b>Claim:</b> \"Spending time in nature can reduce stress levels.\" <br><b>Supporting Statement:</b> \"People often feel more relaxed after taking a walk in the park.\"<br> What type of supporting evidence is this?",
+          "options": [
+            "Stronger Evidence",
+            "Weaker Evidence", 
+            "Neither weaker nor stronger evidence"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 6,
+          "question": "<b>Claim:</b> \"A balanced diet can improve overall energy levels.\" <br><b>Supporting Statement:</b> \"Eating a balanced diet makes some people feel better throughout the day.\"<br> What type of supporting evidence is this?",
+          "options": [
+            "Stronger Evidence",
+            "Weaker Evidence", 
+            "Neither weaker nor stronger evidence"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 7,
+          "question": "<b>Claim:</b> \"Bilingual individuals have better multitasking abilities than monolinguals.\" <br><b>Supporting Statement:</b> \"A Neuroscience Society shows that bilingual individuals switch between tasks more effectively than those who speak only one language.\"<br> What type of supporting evidence is this?",
+          "options": [
+            "Stronger Evidence",
+            "Weaker Evidence", 
+            "Neither weaker nor stronger evidence"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 8,
+          "question": "<b>Claim:</b> \"Getting adequate sleep improves memory retention.\" <br><b>Supporting Statement:</b> \"Some people think that their memory improves after getting adequate sleep.\"<br> What type of supporting evidence is this?",
+          "options": [
+            "Stronger Evidence",
+            "Weaker Evidence", 
+            "Neither weaker nor stronger evidence"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 9,
+          "question": "<b>Claim:</b> \"Reading aloud to children can enhance their language skills.\" <br><b>Supporting Statement:</b> \"Some parents have noticed that their children learn new words when read aloud.\"<br> What type of supporting evidence is this?",
+          "options": [
+            "Stronger Evidence",
+            "Weaker Evidence", 
+            "Neither weaker nor stronger evidence"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 10,
+          "question": "<b>Claim:</b> \"Regular physical activity can improve sleep quality.\" <br><b>Supporting Statement:</b> \"Individuals who exercise at least 30 minutes daily fall asleep faster and have deeper sleep cycles than those who are less active.\"<br> What type of supporting evidence is this?",
+          "options": [
+            "Stronger Evidence",
+            "Weaker Evidence", 
+            "Neither weaker nor stronger evidence"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 11,
+          "question": "<b>Statement:</b> \"Weaker evidence can sometimes still be used to support a claim, but it may not be as persuasive as stronger or strongest evidence.\"<br> True or False?",
+          "options": [
+            "True", 
+            "False", 
+            "Both of the above", 
+            "Neither True nor False"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 12,
+          "question": "<b>Statement:</b> \"An opinion from an expert in the relevant field, even without specific data, is usually stronger evidence than a general opinion from a layperson.\"<br> True or False?",
+          "options": [
+            "True", 
+            "False", 
+            "Both of the above", 
+            "Neither True nor False"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 13,
+          "question": "<b>Statement:</b> \"A weaker evidence always includes a comparison between two or more studies to reinforce its reliability.\"<br> True or False?",
+          "options": [
+            "True", 
+            "False", 
+            "Both of the above", 
+            "Neither True nor False"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 14,
+          "question": "<b>Statement:</b> \"Weaker evidence often lacks support from credible sources or research, making it less persuasive in academic arguments.\"<br> True or False?",
+          "options": [
+            "True", 
+            "False", 
+            "Both of the above", 
+            "Neither True nor False"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 15,
+          "question": "<b>Statement:</b> \"Evidence based on a well-conducted clinical trial with large sample sizes is considered weaker than anecdotal evidence.\"<br> True or False?",
+          "options": [
+            "True", 
+            "False", 
+            "Both of the above", 
+            "Neither True nor False"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 16,
+          "question": "<b>Claim:</b> \"Eating vegetables daily leads to better digestive health.\" <br><b>Supporting Statement:</b> \"Some people say that adding more vegetables to their diet helps them feel less bloated.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+          "options": [
+            "Weaker", 
+            "Stronger", 
+            "Strongest", 
+            "All of the above"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 17,
+          "question": "<b>Claim:</b> \"Technology can enhance learning in classrooms.\" <br><b>Supporting Statement:</b> \"Students who use educational apps and online resources scored higher in assessments than those who did not.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+          "options": [
+            "Weaker", 
+            "Stronger", 
+            "All of the above"
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 18,
+          "question": "<b>Claim:</b> \"Reading fiction can improve empathy.\" <br><b>Supporting Statement:</b> \"Many people believe that reading stories about characters' emotions can help people understand others' feelings better.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+          "options": [
+            "Weaker", 
+            "Stronger", 
+            "None of the above"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 19,
+          "question": "<b>Claim:</b> \"Drinking water improves skin health.\" <br><b>Supporting Statement:</b> \"Many individuals have reported that drinking more water helps their skin appear clearer and more hydrated.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+          "options": [
+            "Weaker", 
+            "Stronger", 
+            "All of the above"
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 20,
+          "question": "<b>Claim:</b> \"Music can improve concentration during study.\" <br><b>Supporting Statement:</b> \"Students who listen to classical music while studying perform better on memory tests.\"<br> The type of evidence in this statement is considered the __________ evidence.",
+          "options": [
+            "Weaker", 
+            "Stronger", 
+            "None of the above"
+          ],
+          "answer": 1
+        }
+      ]
+       
+    }
+  ]
+}
